@@ -18,7 +18,7 @@ var timerID = setInterval(function() {
   displayTime(hour, min, sec, day, "AM", +1, "time-7", "day-7");
   displayTime(hour, min, sec, day, "AM", +8, "time-8", "day-8");
   displayTime(hour, min, sec, day, "AM", +6, "time-9", "day-9");
-  displayTime(hour, min, sec, day, "AM", +10, "time-10", "day-10");
+  displayTime(hour, min, sec, day, "AM", +11, "time-10", "day-10");
 
 }, 1000);
 
